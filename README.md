@@ -1,4 +1,4 @@
-# usda
+# USDA
 Contains my exploration into USDA FoodCentral Database. 
 
 # Titanic
